@@ -9,8 +9,30 @@ the input changes at every login, eliminating the threats of traditional passwor
 Technology Stack:<br>
 Java, AWT
 
-<br><br>
+<br>
 
 Screenshots:
 
+1. Application Launch<br/>
+<img src = "https://github.com/prajwal051290/Mutating-Graphical-Password-System/blob/master/Project%20Screenshots/MGPS.JPG"/><br/>
 
+2. Home Screen<br/>
+<img src = "https://github.com/prajwal051290/Mutating-Graphical-Password-System/blob/master/Project%20Screenshots/Home.JPG"/><br/>
+
+3. Sign Up Process<br/>
+<img src = "https://github.com/prajwal051290/Mutating-Graphical-Password-System/blob/master/Project%20Screenshots/Sign%20Up.JPG"/><br/>
+
+4. Login Process<br/>
+<img src = "https://github.com/prajwal051290/Mutating-Graphical-Password-System/blob/master/Project%20Screenshots/Login.JPG"/><br/>
+
+5. Class Diagram<br/>
+<img src = "https://github.com/prajwal051290/Mutating-Graphical-Password-System/blob/master/Project%20Screenshots/MGPSClass.jpeg"/><br/>
+
+6. Use Case Diagram<br/>
+<img src = "https://github.com/prajwal051290/Mutating-Graphical-Password-System/blob/master/Project%20Screenshots/UseCaseDiag.jpeg"/><br/>
+
+7. Password Creation Process<br/>
+<img src = "https://github.com/prajwal051290/Mutating-Graphical-Password-System/blob/master/Project%20Screenshots/CreatePassword.jpeg"/><br/>
+
+8. Password Verification Process<br/>
+<img src = "https://github.com/prajwal051290/Mutating-Graphical-Password-System/blob/master/Project%20Screenshots/PasswordVerification.jpeg"/><br/>
